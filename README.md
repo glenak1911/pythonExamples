@@ -1,4 +1,4 @@
 pythonExamples
 ==============
 
-python examples worked from Python The Hard Way
+Python examples worked from Python The Hard Way v3
