@@ -12,3 +12,6 @@ Use of the '#' sign for comments(pound/octothorpe)
 ##Exercise 3
 ###Numbers and Math
 Use of basic math operators
+##Exercise 4
+###Variables and Names
+Use of variables and assigning variables to them
