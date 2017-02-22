@@ -18,3 +18,5 @@ Use of variables and assigning variables to them
 ##Exercise 5
 ###More Variables and Printing
 Use of variables and String formatters
+##Exercise 6
+###Strings and Text
