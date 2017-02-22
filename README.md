@@ -15,3 +15,6 @@ Use of basic math operators
 ##Exercise 4
 ###Variables and Names
 Use of variables and assigning variables to them
+##Exercise 5
+###More Variables and Printing
+Use of variables and String formatters
