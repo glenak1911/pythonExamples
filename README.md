@@ -1,4 +1,4 @@
-Python Examples
+#Python Examples
 ==============
 
 Python examples worked from Python The Hard Way v3
@@ -20,3 +20,16 @@ Use of variables and assigning variables to them
 Use of variables and String formatters
 ##Exercise 6
 ###Strings and Text
+Additional String formatting
+##Exercise 7
+###More Printing
+More Printing
+##Exercise 8
+###Printing, Printing
+Printing++
+##Exercise 9
+###Printing, Printing, Printing
+Printing += Printing
+##Exercise 10
+###What Was That?
+Additional string formatting, introducing tabs
